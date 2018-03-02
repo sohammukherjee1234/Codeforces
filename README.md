@@ -1,2 +1,2 @@
-# Codeforces-Practice
-Codeforces problems solved during practice to improve skills.
+# Codeforces
+Codeforces problems solved during practice / virtual contests to improve skills.
